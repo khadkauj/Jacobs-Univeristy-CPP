@@ -1,0 +1,12 @@
+he files called in1.txt and in2.txt, then compute their sum, the difference and the
+product, and print the results on the screen as well as into a file called output.txt. You have
+the freedom to set the structure of the input files.
+You can assume that the input of the testing program will be valid and the necessary input files
+have a valid content if existing.
+Problem 13.3 Concatenate n files into new file (1 point)
+Due by Monday, December 7th, 23:00 Graded manually
+Language: C++
+Write a program which reads from the standard input an integer value n, followed by n file
+names. Your program has to concatenate the content of the n files and write the result into the
+file called “concatn.txt” using binary read and write. Add a ’\n’ to separate the contents of
+the different files inside the resulting file. The operat

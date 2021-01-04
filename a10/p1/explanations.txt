@@ -1,0 +1,17 @@
+Namespace provies a scope or region to declare names inside it,
+so that it wont be mistaken for an indentical name/ambiguity in other scope/region/library.
+Here, "string", "cout", "endl"  and few more keywords are defiend inside namespace std;
+so we should either 
+1. define the scope at the top 
+2. or explicitly use "std" writing- std::string, std::endl and so on so that it we can
+  access this definitions.
+
+
+Without critter:: - void Critter::setName(string& newname) acts like a normal function.
+And since "name" is a private class member, it isn't accessible to other part of
+programs, and error "name was not decalred" pops out. With critter:: (class method),
+it accesses the private memebers of class and makes the declaration "name" 
+accessible/meaningful.
+
+1. Alternatively, we can define the methods of the class inside the
+  class in header file.

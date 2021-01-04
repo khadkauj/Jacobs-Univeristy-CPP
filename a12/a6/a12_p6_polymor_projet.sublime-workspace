@@ -1,0 +1,692 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"excep",
+				"I-exception\tinc"
+			],
+			[
+				"exce",
+				"I-exception\tinc"
+			],
+			[
+				"push",
+				"push_back\tfunc"
+			],
+			[
+				"vect",
+				"vector\tstd::vector"
+			],
+			[
+				"vector",
+				"I-vector\tinc"
+			],
+			[
+				"strem",
+				"streampos\tios"
+			],
+			[
+				"open",
+				"open\tfunc"
+			],
+			[
+				"end",
+				"endl\tostream"
+			],
+			[
+				"is_",
+				"is_open\tfunc"
+			],
+			[
+				"ope",
+				"open\tfunc"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"iostrea",
+				"I-iostream\tinc"
+			],
+			[
+				"inner",
+				"innerradius"
+			],
+			[
+				"Fractio",
+				"Fraction"
+			],
+			[
+				"Fraction",
+				"fraction"
+			],
+			[
+				"fraction",
+				"Fraction"
+			],
+			[
+				"newg",
+				"newAge"
+			],
+			[
+				"iostre",
+				"I-iostream\tinc"
+			],
+			[
+				"return",
+				"register_callback\tfunc"
+			],
+			[
+				"using",
+				"using\tnamespace"
+			],
+			[
+				"m",
+				"mod\tModule"
+			],
+			[
+				"mai",
+				"Main"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/ujjwal/Downloads/project0/project0/index.html",
+			"settings":
+			{
+				"buffer_size": 611,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/ujjwal/Downloads/project0/project0/README.md",
+			"settings":
+			{
+				"buffer_size": 1548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/ujjwal/Downloads/project0/project0/script.js",
+			"settings":
+			{
+				"buffer_size": 385,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/ujjwal/Downloads/project0/project0/styles.css",
+			"settings":
+			{
+				"buffer_size": 796,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"teminu",
+				"Terminus: List Shells"
+			],
+			[
+				"term",
+				"Terminus: List Shells"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ter",
+				"Terminus: List Shells"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"is",
+				"Indexing Status"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"termin",
+				"Terminal: Open"
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: class"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 70.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ujjwal/Downloads/src7/src7/pokemon/main.lua",
+		"/C/Users/ujjwal/Desktop/public class SnakeGame {.java",
+		"/C/Users/ujjwal/Desktop/love/main.lua",
+		"/C/Users/ujjwal/Desktop/love/font example/main.lua",
+		"/C/Users/ujjwal/Desktop/love/example for font.lua",
+		"/C/Users/ujjwal/Downloads/bird.love",
+		"/C/Users/ujjwal/Desktop/love/lualove/src0/pong/pong-final/main.lua",
+		"/C/Users/ujjwal/Desktop/cc++/a8p8/text3",
+		"/C/Users/ujjwal/Desktop/cc++/a8p8/text2",
+		"/C/Users/ujjwal/Desktop/cc++/a8p8/text1",
+		"/C/Users/ujjwal/Desktop/cc++/a8p8/p8.c",
+		"/C/Users/ujjwal/Desktop/cc++/a8p8/output.txt",
+		"/C/Users/ujjwal/Desktop/c++/a13/p4/p4.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a13/p3/p3.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a13/p2/testcomplex.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a13/p2/Complex.h",
+		"/C/Users/ujjwal/Desktop/c++/a13/p2/Complex.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a13/p8/p8.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a13/p6/p6.cpp",
+		"/C/Users/ujjwal/Desktop/c++/practice/3.c",
+		"/C/Users/ujjwal/Desktop/c++/practice/14.c",
+		"/C/Users/ujjwal/Desktop/c++/practice/13.c",
+		"/C/Users/ujjwal/Desktop/c++/practice/12.c",
+		"/C/Users/ujjwal/Desktop/c++/a13/p2/in1.txt",
+		"/C/Users/ujjwal/Desktop/c++/practice/11.c",
+		"/C/Users/ujjwal/Desktop/grs.c",
+		"/C/Users/ujjwal/Desktop/c++/a13/p2/hi.exe",
+		"/C/Users/ujjwal/Desktop/c++/a13/p2/output.txt",
+		"/C/Users/ujjwal/Desktop/c++/a13/p2/in2.txt",
+		"/C/Users/ujjwal/Desktop/c++/a13/p7/p7.cpp",
+		"/C/Users/ujjwal/Desktop/c++/practice/10.c",
+		"/C/Users/ujjwal/Desktop/c++/a13/p5/p5.cpp",
+		"/C/Users/ujjwal/Desktop/c++/practice/9.c",
+		"/C/Users/ujjwal/Desktop/c++/practice/8.c",
+		"/C/Users/ujjwal/Desktop/c++/practice/7.c",
+		"/C/Users/ujjwal/Desktop/c++/practice/6.c",
+		"/C/Users/ujjwal/Desktop/c++/practice/5.c",
+		"/C/Users/ujjwal/Desktop/c++/practice/4.c",
+		"/C/Users/ujjwal/Desktop/c++/practice/2.c",
+		"/C/Users/ujjwal/Desktop/c++/practice/dsedss.c",
+		"/C/Users/ujjwal/Desktop/c++/a13/p1/p1.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a5/testfraction.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a5/fraction.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a5/fraction.h",
+		"/C/Users/ujjwal/Desktop/c++/a13/p2/eins.exe",
+		"/C/Users/ujjwal/Desktop/c++/a13/p1.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a10/p3/city.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a10/Critter.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a7/testvirtual.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a4/fraction.cpp",
+		"/C/Users/ujjwal/Desktop/c++/practice/1.c",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/testvirtual.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a2/testTournamentMember.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a2/TournamentMember.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a2/TournamentMember.cpp",
+		"/C/Users/ujjwal/Desktop/c++/practice/fi.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a7/Square.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a7/Square.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a7/Ring.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a7/Ring.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a7/Rectangle.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a7/Rectangle.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a7/Circle.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a7/Circle.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a7/Area.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a7/Area.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a4/testfraction.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/Square.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/Square.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/Ring.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/Ring.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/Rectangle.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/Rectangle.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/ezyzip (5).zip",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/Circle.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/Circle.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/Area.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a6/Area.cpp",
+		"/C/Users/ujjwal/AppData/Local/Temp/Rar$DIa15680.24698/testvirtual.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a4/fraction.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a3/TournamentMember.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a3/testPlayer.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a3/TournamentMember.h",
+		"/C/Users/ujjwal/Desktop/c++/a12/a1/Shapes.cpp",
+		"/C/Users/ujjwal/Desktop/c++/a12/a1/Shapes.h",
+		"/C/Users/ujjwal/Desktop/haskell/pra.hs",
+		"/C/Users/ujjwal/Desktop/haskell/tail recursion.hs",
+		"/C/Users/ujjwal/Desktop/haskell/logarithmic.hs",
+		"/C/Users/ujjwal/Desktop/haskell/11.2alog.hs",
+		"/C/Users/ujjwal/Desktop/haskell/11.2blogatailrec.hs",
+		"/C/Users/ujjwal/Desktop/haskell/practince 11.3.hs",
+		"/C/Users/ujjwal/Desktop/haskell/practince 11.3.3s.hs",
+		"/C/Users/ujjwal/Desktop/haskell/praactice 11.2.hs",
+		"/C/Users/ujjwal/Desktop/haskell/prac11.hs",
+		"/C/cygwin64/fork_test_in_c.c",
+		"/C/Users/ujjwal/Desktop/haskell/fork test in c.c",
+		"/C/Users/ujjwal/Desktop/haskell/practice5.hs",
+		"/C/Users/ujjwal/Desktop/haskell/assign10.hs",
+		"/C/Users/ujjwal/Desktop/love/lualove/src0/pong/pong-3/main.lua",
+		"/C/Users/ujjwal/Desktop/love/lualove/src0/pong/pong-3/push.lua",
+		"/C/Users/ujjwal/Desktop/love/lualove/src0/pong/pong-3/conf.lua",
+		"/C/Users/ujjwal/Desktop/New folder/lualove/src0/pong/pong-final/Paddle.lua",
+		"/C/Users/ujjwal/Desktop/New folder/lualove/src0/pong/pong-final/main.lua",
+		"/C/Users/ujjwal/Desktop/New folder/lualove/src0/pong/pong-final/class.lua",
+		"/C/Users/ujjwal/Desktop/New folder/lualove/src0/pong/pong-final/Ball.lua",
+		"/C/Users/ujjwal/Desktop/New folder/lualove/src0/pong/pong-final/push_old.lua",
+		"/C/Users/ujjwal/Desktop/New folder/lualove/src0/pong/pong-final/push.lua",
+		"/C/Users/ujjwal/Desktop/New folder/main.lua",
+		"/C/Users/ujjwal/AppData/Roaming/Sublime Text 3/Packages/User/lua_ujjwal_love.sublime-build",
+		"/C/Users/ujjwal/Downloads/Mini-Project-in-C-Phonebook/Mini Project in C Phonebook/phonebook application.c",
+		"/C/Users/ujjwal/Downloads/Mini-Project-in-C-Snake-Game/Mini Project in C Snake Game/snake game.c",
+		"/C/Users/ujjwal/Desktop/cc++/assign6/a6_p2.c",
+		"/C/Users/ujjwal/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-build",
+		"/C/Users/ujjwal/AppData/Roaming/Sublime Text 3/Packages/User/cpp_console.sublime-build"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(6)",
+			"Bremen",
+			"inline",
+			"Bremen",
+			"bremen",
+			"snake"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/ujjwal/Downloads/project0/project0/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/ujjwal/Downloads/project0/project0/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/ujjwal/Downloads/project0/project0/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/ujjwal/Downloads/project0/project0/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.934895833333,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.Terminus":
+	{
+		"height": 138.0
+	},
+	"output.exec":
+	{
+		"height": 205.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/lua_ujjwal_love.sublime-build",
+	"project": "a12_p6_polymor_projet.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

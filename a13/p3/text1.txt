@@ -1,0 +1,6 @@
+Problem 13.4 Multiple inheritance I (1 point)
+Due by Monday, December 7th, 23:00 Graded manually
+Language: C++
+Consider the following source file:
+https://grader.eecs.jacobs-university.de/courses/320142/cpp/minheritance1.cpp
+Compile and run the file. If you find any c
